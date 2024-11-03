@@ -1,6 +1,6 @@
 # Dashboards
 
-# Table of content
+## Table of content
 - [List of Changes](#list-of-changes)
   - [Introduction](#introduction)
 
