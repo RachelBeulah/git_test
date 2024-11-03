@@ -14,6 +14,4 @@
 
 
 
-![image](https://github.com/user-attachments/assets/42a89094-2c16-4d41-81e8-55817ae35c4c)
-
-![image](images/wiImages/Screenshot 2024-10-30 111736.png)
+![image](/images/wiImages/Screenshot%202024-10-30%20111736.png)
